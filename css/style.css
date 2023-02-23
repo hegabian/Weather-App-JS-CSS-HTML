@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.logo {
+    width: 15%;
+    cursor: pointer;
+}
+.navBg {
+    background-color: #1e202b;
+}
+.nav-link {
+    color: white;
+    border-radius: 30px;
+    padding: 1px 20px;
+    transition-property: all;
+    transition-duration: 0.25s;
+    border: none;
+    font-size: 1rem;
+    margin-left: 2rem;
+}
+.nav-link:hover {
+    border: 3px solid #038ec8;
+    cursor: pointer;
+    color: #038ec8;
+    border-radius: 30px;
+    padding: 1px 20px;
+    font-size: 1rem;
+    margin-left: 2rem;
+}
+
+
+
+body {
+    
+    background: #1e202b;
+    background-image: url(../img/banner.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg-1 {
+    background-color: #2d303d;
+}
+.bg-2 {
+    background-color: #323544;
+}
+.bg-3 {
+    background-color: #222530;
+}
+.bg-4{
+    background-color: #262936;
+}
+.card{
+    border: none;
+    padding: 0px;
+    
+}
+.temp-text{
+    font-size: 6rem;
+    font-weight: bold;
+    
+}
+
+#FOOTER h6 {
+    color: #a2a8a6 ;
+}
+.bg-5 {
+    background-color: #262936;
+}
+
+.x {
+    color: #038ec8;
+    font-size: 20px;
+    margin-left: 10px;
+    background-color: #1e202b;
+    padding: 10px;
+    border-radius: 100px;
+    transition-property: all;
+    transition-duration: 0.25s;
+    cursor: pointer;
+}
+.x:hover {
+    background-color: #038ec8;
+    color: white;
+}
+
+.btn1{
+    
+}
